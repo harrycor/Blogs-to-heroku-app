@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+# bogus
+.DS_Store
+
+# production bundles
+dist/
+public/js/app.js
+.env
